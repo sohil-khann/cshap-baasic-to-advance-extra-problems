@@ -12,5 +12,10 @@ public class  ElectricScooter : Vehicle
     {
         return max_speed_limit;
     }
+    public override int calculate_trip_cost(int distance)
+    {
+        int cost_per_km = GetRentalPrice();
+        return cost_per_km * distance;
+    }
 
 }
