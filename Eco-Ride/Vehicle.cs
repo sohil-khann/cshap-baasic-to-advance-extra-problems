@@ -1,7 +1,11 @@
 using System;
 public abstract class Vehicle
+
+
 {
+    //abstract method to calculate trip cost
     public abstract int calculate_trip_cost(int distance);
+    //private fields
     private string Vehicle_id { get; set; }
     private string Model { get; set; }
     private byte Battery_percentage { get; set; }
@@ -12,9 +16,9 @@ public abstract class Vehicle
         Vehicle_id = vehicle_id;
         Model = model;
 
-        
 
-    }
+
+    }//getter and setter methods
     public bool GetMaintenanceStatus()
     {
         return Maintenance_Status;
@@ -33,8 +37,8 @@ public abstract class Vehicle
         Rental_Price = price;
     }
     public void SetBatteryPercentage(byte percentage)
-    {
-        if(percentage <=100 && percentage>=0)
+    {//validation for battery percentage
+        if (percentage <=100 && percentage>=0)
         {
             Battery_percentage = percentage;
 
