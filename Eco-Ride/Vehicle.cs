@@ -1,6 +1,7 @@
 using System;
-public class Vehicle
+public abstract class Vehicle
 {
+    public abstract int calculate_trip_cost(int distance);
     private string Vehicle_id { get; set; }
     private string Model { get; set; }
     private byte Battery_percentage { get; set; }
