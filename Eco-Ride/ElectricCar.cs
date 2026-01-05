@@ -10,4 +10,10 @@ public class  ElectricCar : Vehicle
     {
         return seatingCapacity;
     }
+    public override int calculate_trip_cost(int distance)
+    {
+        int cost_per_km = GetRentalPrice();
+        return cost_per_km * distance;
+    }
+
 }
