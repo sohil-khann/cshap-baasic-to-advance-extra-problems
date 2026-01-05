@@ -4,7 +4,7 @@ public abstract class Vehicle
 
 {
     //abstract method to calculate trip cost
-    public abstract int calculate_trip_cost(int distance);
+    public abstract double calculate_trip_cost(int distance);
     //private fields
     private string Vehicle_id { get; set; }
     private string Model { get; set; }

@@ -13,7 +13,7 @@ public class  ElectricScooter : Vehicle
         return max_speed_limit;
     }
     //overriding the abstract method from Vehicle class
-    public override int calculate_trip_cost(int distance)
+    public override double calculate_trip_cost(int distance)
     {
         
         int base_rate = 1; // Base rate per kilometer

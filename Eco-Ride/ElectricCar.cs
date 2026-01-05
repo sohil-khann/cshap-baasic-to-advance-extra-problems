@@ -13,7 +13,7 @@ public class  ElectricCar : Vehicle
     }
 
     //overriding the abstract method from Vehicle class
-    public override int calculate_trip_cost(int distance)
+    public override double calculate_trip_cost(int distance)
     {
 
         int base_rate = 5; // Base rate per kilometer

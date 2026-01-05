@@ -1,0 +1,15 @@
+D:\Acess meditech\cshap-baasic-to-advance-extra-problems\Eco-Ride\obj\Debug\net10.0\Eco-Ride.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acess meditech\cshap-baasic-to-advance-extra-problems\Eco-Ride\obj\Debug\net10.0\Eco-Ride.AssemblyInfoInputs.cache
+D:\Acess meditech\cshap-baasic-to-advance-extra-problems\Eco-Ride\obj\Debug\net10.0\Eco-Ride.AssemblyInfo.cs
+D:\Acess meditech\cshap-baasic-to-advance-extra-problems\Eco-Ride\obj\Debug\net10.0\Eco-Ride.csproj.CoreCompileInputs.cache
+D:\Acess meditech\cshap-baasic-to-advance-extra-problems\Eco-Ride\obj\Debug\net10.0\Eco-Ride.sourcelink.json
+D:\Acess meditech\cshap-baasic-to-advance-extra-problems\Eco-Ride\bin\Debug\net10.0\Eco-Ride.exe
+D:\Acess meditech\cshap-baasic-to-advance-extra-problems\Eco-Ride\bin\Debug\net10.0\Eco-Ride.deps.json
+D:\Acess meditech\cshap-baasic-to-advance-extra-problems\Eco-Ride\bin\Debug\net10.0\Eco-Ride.runtimeconfig.json
+D:\Acess meditech\cshap-baasic-to-advance-extra-problems\Eco-Ride\bin\Debug\net10.0\Eco-Ride.dll
+D:\Acess meditech\cshap-baasic-to-advance-extra-problems\Eco-Ride\bin\Debug\net10.0\Eco-Ride.pdb
+D:\Acess meditech\cshap-baasic-to-advance-extra-problems\Eco-Ride\obj\Debug\net10.0\Eco-Ride.dll
+D:\Acess meditech\cshap-baasic-to-advance-extra-problems\Eco-Ride\obj\Debug\net10.0\refint\Eco-Ride.dll
+D:\Acess meditech\cshap-baasic-to-advance-extra-problems\Eco-Ride\obj\Debug\net10.0\Eco-Ride.pdb
+D:\Acess meditech\cshap-baasic-to-advance-extra-problems\Eco-Ride\obj\Debug\net10.0\Eco-Ride.genruntimeconfig.cache
+D:\Acess meditech\cshap-baasic-to-advance-extra-problems\Eco-Ride\obj\Debug\net10.0\ref\Eco-Ride.dll
